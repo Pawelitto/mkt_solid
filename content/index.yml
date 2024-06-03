@@ -1,8 +1,8 @@
-title: Salon Fryzur Wojciech Gudzik.
-description: Odkryj swoją nową fryzurę już dziś
+title: Profesjonalne Usługi Remontowe | Michał Trejda
+description: MKT Solid | Twoje zaufane źródło kompleksowych usług remontowych. Gwarantujemy jakość, solidność i terminowość. Skontaktuj się z nami już dziś!
 hero:
-  title: Odkryj swoją nową fryzurę już dziś
-  description: Nasze doświadczone ręce transformują Twoje włosy, oferując personalizowane strzyżenie i stylizację. Poczuj się wyjątkowo z każdym cięciem.
+  title: Profesjonalne Usługi Remontowe | Michał Trejda
+  description: MKT Solid | Twoje zaufane źródło kompleksowych usług remontowych. Gwarantujemy jakość, solidność i terminowość. Skontaktuj się z nami już dziś!
   headline:
     label: Kontakt
     to: '#kontakt'
@@ -15,57 +15,57 @@ hero:
       size: xl
 offer:
   headline: Oferta
-  title: Odkryj nasze usługi fryzjerskie
-  description: Łączymy tradycję z nowoczesnością, oferując usługi na najwyższym poziomie. Poznaj naszą ofertę dostosowaną do Twoich potrzeb.
+  title: Odkryj nasze usługi remontowe
+  description: Oferujemy kompleksowe usługi remontowe, zapewniając najwyższą jakość i terminowość realizacji. Poznaj naszą ofertę dostosowaną do Twoich potrzeb.
   items:
-    - title: Strzyżenie damskie
-      description: Profesjonalne strzyżenie i stylizacja zgodna z najnowszymi trendami.
-      icon: i-heroicons-scissors
-    - title: Strzyżenie męskie
-      description: Precyzyjne cięcia i stylizacja, dostosowane do indywidualnych preferencji.
-      icon: i-heroicons-user
-    - title: Koloryzacja
-      description: Wysokiej jakości farbowanie w pełnej gamie kolorów, w tym techniki balayage i ombre.
-      icon: i-heroicons-paint-brush
-    - title: Pielęgnacja włosów
-      description: Regeneracja i nawilżanie dla zdrowych, błyszczących włosów.
-      icon: i-mdi-hair-dryer-outline
-    - title: Stylizacja na okazje
-      description: Eleganckie upięcia i stylizacje na specjalne wydarzenia.
-      icon: i-heroicons-heart
-    - title: Porady ekspertów
-      description: Profesjonalne doradztwo w doborze fryzur i produktów pielęgnacyjnych.
+    - title: Remonty mieszkań
+      description: Kompleksowe remonty mieszkań, od projektowania po wykończenie.
+      icon: i-material-symbols-in-home-mode-outline
+    - title: Remonty łazienek
+      description: Profesjonalne usługi remontowe łazienek, w tym instalacje hydrauliczne.
+      icon: i-mingcute-shower-line
+    - title: Remonty kuchni
+      description: Wysokiej jakości remonty kuchni, w tym montaż mebli i sprzętu AGD.
+      icon: i-streamline-travel-wafinder-sink-wash-clean-toilet-bathroom-water
+    - title: Malowanie i tapetowanie
+      description: Precyzyjne malowanie i tapetowanie wnętrz zgodnie z Twoimi preferencjami.
+      icon: i-lucide-paintbrush
+    - title: Podłogi i płytki
+      description: Montaż różnorodnych podłóg i płytek, zapewniający trwałość i estetykę.
+      icon: i-mdi-floor-plan
+    - title: Doradztwo remontowe
+      description: Profesjonalne doradztwo w zakresie planowania i realizacji remontów.
       icon: i-heroicons-light-bulb
 testimonials:
   headline: Opinie
   title: Co mówią nasi klienci
   description: Jakość naszych usług potwierdzona opiniami zadowolonych klientów.
   items:
-    - quote: Super doradztwo, pomysły, ogrom wiedzy i piękne wykonanie, a do tego miła atmosfera😀 Efekt to piękniejsza głowa i zadowolenie😁 A efekt wizyty to jeszcze przystojniejszy wygląd😍 Dziękuję😊…
+    - quote: Profesjonalne podejście do remontu, świetne doradztwo i wysoka jakość wykonania. Jestem bardzo zadowolony z efektu końcowego!
       author:
         name: Kaja Koboj
         avatar:
           src: https://lh3.googleusercontent.com/a-/ALV-UjW_BocgEGcq8p4la6FfLuZ-n1_3UCY0lCUuOuCWyc3XgR7toR2R=w72-h72-p-rp-mo-br100
           loading: lazy
-    - quote: Nowe miejsce, nowy salon, ale jakość i atmosfera bez zmian Świetna obsługa, fantastyczna atmosfera i usługi na najwyższym poziomie, całkowicie polecam
+    - quote: Terminowość, precyzja i doskonały kontakt z klientem. Polecam wszystkim, którzy szukają rzetelnej firmy remontowej.
       author:
         name: Aleksander Szweda
         avatar:
           src: https://lh3.googleusercontent.com/a-/ALV-UjW0PfcpQghBYlnq0QYLbL3XEmy31ZQbzCiUZampQEc2kKX1CfX4WA=w72-h72-p-rp-mo-ba5-br100
           loading: lazy
-    - quote: Polecam! Profesjonalna obsługa, pełna wiedzy i kompetencji. Analiza kolorystyczna na najwyższym poziomie.
+    - quote: Jestem bardzo zadowolony z pracy tej firmy. Profesjonalna obsługa, pełna wiedzy i kompetencji. Efekt remontu przerósł moje oczekiwania.
       author:
         name: Marcin Kubica
         avatar:
           src: https://lh3.googleusercontent.com/a-/ALV-UjV74YWVsKwmZWbhL9nm2bAfLkwJx08aVdy8287vTuvVw7aXJdhQHA=w72-h72-p-rp-mo-ba4-br100
           loading: lazy
-    - quote: Swobodna atmosfera, profesjonalne podejście do klienta, przemiła obsługa i pyszna kawa. :)
+    - quote: Firma remontowa na najwyższym poziomie. Swobodna atmosfera, profesjonalne podejście do klienta i doskonałe rezultaty.
       author:
         name: Wojciech Greda
         avatar:
           src: https://lh3.googleusercontent.com/a-/ALV-UjVUpCXnSdLfeTqJAoNjiWZo8dPLuEcLpfpbBKPI7BgZRJbBKYVHTw=w72-h72-p-rp-mo-ba4-br100
           loading: lazy
-    - quote: Bardzo dobry fryzjer. Perfekcjonista.
+    - quote: Bardzo profesjonalna firma remontowa. Perfekcyjnie wykonane prace, jestem bardzo zadowolony z efektów.
       author:
         name: Ursus Bizon
         avatar:
@@ -77,7 +77,7 @@ testimonials:
         avatar:
           src: https://lh3.googleusercontent.com/a-/ALV-UjWvFTlEKot0donwRAJCXH3v0QIs5zilcqP-42eUebTIZKYvnSH4=w72-h72-p-rp-mo-br100
           loading: lazy
-    - quote: Pasja połączona z wiedzą. Polecam
+    - quote: Pasja połączona z wiedzą. Polecam wszystkim, którzy potrzebują fachowej obsługi remontowej.
       author:
         name: Alicja Dudek
         avatar:
@@ -85,12 +85,16 @@ testimonials:
           loading: lazy
 faq:
   title: Często zadawane pytania
-  description: Tutaj znajdziesz odpowiedzi na najczęściej zadawane pytania dotyczące naszego zakładu fryzjerskiego.
+  description: Tutaj znajdziesz odpowiedzi na najczęściej zadawane pytania dotyczące naszych usług remontowych.
   items:
-    - label: Jakie usługi oferuje nasz zakład fryzjerski?
-      content: Nasz zakład specjalizuje się w szerokim zakresie usług fryzjerskich, takich jak strzyżenie, koloryzacja, trwała ondulacja, stylizacja, pielęgnacja włosów i wiele innych. Zapraszamy do zapoznania się z pełną listą usług na naszej stronie.
+    - label: Jakie usługi oferuje nasza firma remontowa?
+      content: Nasza firma specjalizuje się w kompleksowych usługach remontowych, w tym remontach mieszkań, łazienek, kuchni, malowaniu, tapetowaniu, montażu podłóg i płytek oraz doradztwie remontowym. Pełna lista usług dostępna jest na naszej stronie.
       defaultOpen: true
-    - label: Jakie produkty fryzjerskie używamy?
-      content: W naszym salonie korzystamy z wysokiej jakości produktów renomowanych marek. Stawiamy na produkty, które są skuteczne i bezpieczne dla włosów i skóry głowy.
-    - label: Jak dbamy o higienę w naszym salonie?
-      content: Nasz zakład przestrzega rygorystycznych standardów sanitarnych. Wszystkie narzędzia są dokładnie dezynfekowane po każdym kliencie, a stanowiska pracy są utrzymane w czystości.
+    - label: Jakie materiały używamy do remontów?
+      content: Korzystamy z wysokiej jakości materiałów renomowanych producentów. Dbamy o to, aby wszystkie materiały były trwałe, estetyczne i bezpieczne.
+    - label: Jak dbamy o terminowość realizacji projektów?
+      content: Przykładamy dużą wagę do terminowości. Każdy projekt jest szczegółowo planowany, aby zapewnić jego ukończenie na czas. Informujemy klientów na bieżąco o postępach prac.
+    - label: Jak dbamy o higienę i porządek podczas remontów?
+      content: Przestrzegamy rygorystycznych standardów higieny i porządku. Nasza ekipa dba o utrzymanie czystości na miejscu pracy i minimalizowanie uciążliwości dla klientów.
+    - label: Czy oferujemy gwarancję na wykonane prace?
+      content: Tak, oferujemy gwarancję na wszystkie wykonane przez nas prace. Dokładamy wszelkich starań, aby każdy projekt był wykonany na najwyższym poziomie.
