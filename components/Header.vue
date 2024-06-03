@@ -35,8 +35,8 @@ nuxtApp.hooks.hookOnce('page:finish', () => {
 <template>
   <UHeader :links="links">
     <template #logo>
-      Wojciech Gudzik<UBadge
-        label="Salon Fryzur"
+      Michał Trejda<UBadge
+        label="Usługi remontowe"
         variant="subtle"
         class="mb-0.5 hidden md:block"
       />
