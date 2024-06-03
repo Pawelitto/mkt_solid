@@ -11,11 +11,9 @@ useSeoMeta({
 });
 
 const items = [
-  'grafika1.jpeg',
-  'grafika2.jpeg',
-  'grafika3.jpeg',
-  'grafika4.jpeg',
-  'grafika5.jpeg',
+  'https://moniter.pl/blog/wp-content/uploads/2023/03/wyro%CC%81z%CC%87niaja%CC%A8ca-9.jpg',
+  'https://bank.pl/wp-content/uploads/2019/10/remont-mieszkanie-malowanie.jpg',
+  'https://ocieplamyzycie.pl/wp-content/uploads/2019/11/remont_mieszkania.jpg',
 ];
 </script>
 
