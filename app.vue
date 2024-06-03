@@ -8,12 +8,16 @@ useHead({
 });
 
 useSeoMeta({
-  ogImage: 'https://i.ibb.co/7z2wHbF/grafika4.jpg',
-  twitterImage: 'https://i.ibb.co/7z2wHbF/grafika4.jpg',
+  ogImage:
+    'https://ocieplamyzycie.pl/wp-content/uploads/2019/11/remont_mieszkania.jpg',
+  twitterImage:
+    'https://ocieplamyzycie.pl/wp-content/uploads/2019/11/remont_mieszkania.jpg',
   twitterCard: 'summary_large_image',
-  ogUrl: 'https://i.ibb.co/7z2wHbF/grafika4.jpg',
-  twitterTitle: 'Salon Fryzur - Wojciech Gudzik.',
-  twitterDescription: 'Odkryj swoją nową fryzurę już dziś',
+  ogUrl:
+    'https://ocieplamyzycie.pl/wp-content/uploads/2019/11/remont_mieszkania.jpg',
+  twitterTitle: 'Profesjonalne Usługi Remontowe | Michał Trejda',
+  twitterDescription:
+    'MKT Solid | Twoje zaufane źródło kompleksowych usług remontowych. Gwarantujemy jakość, solidność i terminowość. Skontaktuj się z nami już dziś!',
 });
 </script>
 
